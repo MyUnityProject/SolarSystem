@@ -3,6 +3,7 @@ A model of the solar system.
 This was made in the Unity Engine. It's features are : 
  - Allow selection of specific celestial body to follow.
  - Approximately accurate speed and sizes of planets and sun in Solar System. 
+ - Minimap as well as mimimap support. 
  
  Steps to run it in Unity: 
   - Download/Clone the whole folder
